@@ -1,6 +1,6 @@
 # MathAtlas
 
-MathAtlas 是一个基于 **Next.js + 本地 Markdown 题库** 的数学试题管理与组卷工具。
+MathAtlas 是一个基于 **Next.js + 本地 Markdown 题库** 的数学试题管理（核心）与组卷工具（轻度）。
 
 程序以本地文件夹作为题库数据源，支持题目录入、筛选浏览、试题篮组卷、题目排序、安全删除，以及 Markdown、LaTeX 和 Word 等格式的导出。
 
